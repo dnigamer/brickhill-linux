@@ -6,7 +6,7 @@ Brick-Hill automated installer for Linux distros using Wine.
 # Running
 ## Bash fast script
 You can run this script really quickly by pasting this on your terminal
-### `python <(curl https://raw.githubusercontent.com/dnigamer/brickhill-linux/main/main.py -s -N)`
+#### `python <(curl https://raw.githubusercontent.com/dnigamer/brickhill-linux/main/main.py -s -N)`
 
 ## Cloning the repository 
 To run this script, you need to clone the repository to your local machine by doing
